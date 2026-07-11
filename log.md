@@ -5,4 +5,4 @@
 
 `git config --list` 
 
-![Screenshot of Windows terminal output showing git config --list with configured user.name and user.email settings in a command window]("D:\git-practice\git-practice\Screenshots\Screenshot 2026-07-11 215653.png")
+![Screenshot of Windows terminal output showing git config --list with configured user.name and user.email settings in a command window]("Screenshots\Screenshot 2026-07-11 215653.png")
