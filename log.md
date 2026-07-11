@@ -3,6 +3,6 @@
 ## Day 1
 - Set up git-practice repository and configure user details. Show final results using:
 
-`git config --list` 
+  `git config --list` 
 
-![Screenshot of Windows terminal output showing git config --list with configured user.name and user.email settings in a command window]("Screenshots\Screenshot 2026-07-11 215653.png")
+<img width="959" height="527" alt="Screenshot 2026-07-11 215653" src="https://github.com/user-attachments/assets/7c731647-a7e0-45c0-bb55-d03152f1a824" />
