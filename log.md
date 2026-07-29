@@ -5,7 +5,8 @@
 
   `git config --list` 
 
-![Screenshot of Windows terminal output showing git config --list with configured user.name and user.email settings in a command window]("Screenshots\Screenshot 2026-07-11 215653.png")
+<img width="959" height="527" alt="Screenshot 2026-07-11 215653" src="https://github.com/user-attachments/assets/e26a7060-1d2f-41fd-8eb9-374ae1529e4e" />
+
 
 ## Day 2
 - Run git log and upload output
