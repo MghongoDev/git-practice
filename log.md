@@ -37,3 +37,9 @@ Date:   Sat Jul 11 22:07:03 2026 +0300
 :
 
 ```
+
+## Day 3
+- Upload screenshot of `git log --oneline` output
+  
+<img width="581" height="365" alt="Screenshot 2026-07-29 183306" src="https://github.com/user-attachments/assets/c039e4b7-d7ad-4795-af8b-3f66675917df" />
+
