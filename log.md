@@ -9,7 +9,7 @@
 
 ## Day 2
 - Run git log and upload output
-Output:
+- Output:
 ```
 commit b1ae0e6ce27e58c7770a244f0433817d7a5c18eb (HEAD -> main, origin/main, origin/HEAD)
 Author: David Mghongo <mwandairodavid@gmail.com>
