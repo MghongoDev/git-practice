@@ -43,3 +43,11 @@ Date:   Sat Jul 11 22:07:03 2026 +0300
   
 <img width="581" height="365" alt="Screenshot 2026-07-29 183306" src="https://github.com/user-attachments/assets/c039e4b7-d7ad-4795-af8b-3f66675917df" />
 
+## Day 4
+- Upload screenshot showing .gitignore contents and a clean working tree.
+  <img width="596" height="74" alt="Screenshot 2026-07-30 234236" src="https://github.com/user-attachments/assets/862c0eae-4e58-45d2-9c43-903f05a34655" />
+
+  <img width="557" height="119" alt="Screenshot 2026-07-30 234834" src="https://github.com/user-attachments/assets/30025467-4a44-4920-8cab-0bda56eb8f96" />
+
+
+
